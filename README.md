@@ -17,6 +17,7 @@ SECRET_KEY=""
 ```
 3. Initialise and start the project
 ```
+sudo apt install nodejs
 npm install
 npm run start
 ```
